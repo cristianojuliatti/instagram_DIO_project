@@ -41,8 +41,8 @@ body {
     align-items: center; /* horizontal */
     justify-content: space-around; /* vertical */
     flex-direction: column;
-    width: 50%;
-    min-height: 35rem;
+    width:45%;
+    min-height: 40rem;
 }
 
 .group {
@@ -57,11 +57,11 @@ body {
 }
 
 .group:nth-child(1) {
-    min-height: 19rem;
+    min-height: 22rem;
 }
 
 .instagram-logo {
-    height: 5rem;
+    height: 7rem;
 }
 
 .profile-photo {
@@ -73,7 +73,7 @@ body {
 }
 
 .profile-photo img {
-    height: 6rem;
+    height: 7rem;
 }
 
 .instagram-login {
@@ -85,7 +85,7 @@ body {
 
 .instagram-logout {
     color: #0095f6;
-    margin-top: 1rem;
+    margin-top: 0.5rem;
 }
 
 .not-account {
